@@ -1,6 +1,5 @@
 
 # Hufflepuff project - A Python testing project
----
 I studied the course [Automated Software Testing](https://trang17.github.io/automated-software-testing/). And though the course is great, its excersises are in Java - the programing language that I know absolutely nothing about.
 
 The good new is that the codes are very readable - I can understand what they do, I just don't know how to write the codes.
