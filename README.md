@@ -1,5 +1,5 @@
 
-# Hufflepuff project - A Python testing project
+# Hufflepuff Project - A Python Testing Project
 I studied the course [Automated Software Testing](https://trang17.github.io/automated-software-testing/). And though the course is great, its excersises are in Java - the programing language that I know absolutely nothing about.
 
 The good new is that the codes are very readable - I can understand what they do, I just don't know how to write the codes.
@@ -13,3 +13,6 @@ Using various testing techniques:
 - Partition and equivalence partitioning.
 - Boundary testing.
 - Structure testing and code coverage.
+
+## Author 
+[Trang Nguyen](https://trang17.github.io)
