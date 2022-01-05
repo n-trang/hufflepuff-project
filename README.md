@@ -9,10 +9,13 @@ Granted the codes are quite simple, I think to rewrite it in Python - the langua
 As this is a Software testing course, not Java programing course after all. And all the testing ideas and concepts carry on no matter the language.
 
 ## What I learnt
-Using various testing techniques:
-- Partition and equivalence partitioning.
-- Boundary testing.
-- Structure testing and code coverage.
+### Partition and equivalence partitioning.
+- `2-1-leap-year.py`
+- We need to do this.
+### Boundary testing.
+
+### Structure testing and code coverage.
+.
 
 ## Author 
 [Trang Nguyen](https://trang17.github.io)
