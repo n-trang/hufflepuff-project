@@ -10,15 +10,19 @@ def chocolate(small, big, total):
         4
         >>> chocolate(5, 1, 5)
         0
+        >>> chocolate (2, 3, 17)
+        2
     """
-# In JUnit, there's a way to automated those test case by making a template and only parse in the numbers needed. But I don't know how to do it with Python yet :(, so all the boundary test need to be added by hands.
 
 # There are 4 partitions:
-# 1. total amount is greater than the bars have. return -1
+# 1. total amount is greater than the bars that we have. return -1
 # 2. need only big bar.
 # 3. need only small bar.
 # 4. need big bar and small bar.
 
+# Each partition has boundaries, which means there are switch points. We need to test those points.
+
+# In JUnit, there's a way to automated those test case by making a template and only parse in the numbers needed. But I don't know how to do it with Python yet :(, so all the boundary test need to be added by hands.
 
     big_bar = total // 5
     if big_bar < big:
